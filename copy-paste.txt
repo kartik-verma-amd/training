@@ -1,0 +1,6 @@
+<dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.11.0</version> <!-- Replace with the absolute latest stable version if different -->
+    <scope>test</scope>
+</dependency>
